@@ -1,8 +1,9 @@
 # Visual Studio Community vs Entreprise
 
 Cette veille technologique traite des différentes versions de l'IDE de microsoft : Visual Studio 2019.
-Je vais donc vous éclairer sur les différents choix à effectuer selon les besoins, les attentes (objectifs)
-et les effectifs.  
+Je vais donc dans un premier temps vous éclairer sur les différents choix à effectuer selon les besoins, les attentes (objectifs)
+et les effectifs. 
+Dans un second temps, je vous présenterai les fonctionnalités de ces deux versions ainsi que leurs différences.
 
 ## Pour commencer
 
