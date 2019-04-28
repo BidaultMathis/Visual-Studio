@@ -6,7 +6,7 @@ et les effectifs.
 
 ## Pour commencer
 
-![](/Images/vs2019.jpg)
+![Visual Studio 2019](https://raw.githubusercontent.com/BidaultMathis/Visual-Studio/master/Veille%20Juridique/Images/vs2019.jpg)
 
 L'IDE Visual Studio est une plateforme de lancement créative avec laquelle vous pouvez modifier, déboguer et générer du code, puis publier une application. Un environnement de développement intégré (IDE) est un programme riche en fonctionnalités qui peut être utilisé pour de nombreux aspects du développement de logiciels. Au-delà de l’éditeur et du débogueur standard fournis par la plupart des IDE, Visual Studio inclut des compilateurs, des outils de complétion de code, des concepteurs graphiques et de nombreuses autres fonctionnalités afin de faciliter le processus de développement logiciel.
 
