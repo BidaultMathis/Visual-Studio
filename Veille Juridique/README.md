@@ -55,6 +55,8 @@ Il est l'heure de nous intéresser aux différentes fonctionalités que proposen
 
 ### Environnement de développement intégré
 
+![Environnement Dev](https://visualstudio.microsoft.com/wp-content/uploads/2019/03/lightbulb-dark-1200.gif)
+
 * **CodeLens**
 
 ```
@@ -83,6 +85,8 @@ Permet d’ouvrir des diagrammes générés dans d’autres versions de Visual S
 
 ### Débogage et diagnostics avancés
 
+![Debugs](https://visualstudio.microsoft.com/wp-content/uploads/2019/03/Debugging-1200.gif)
+
 * **Métrique du code**
 
 ```
@@ -100,6 +104,8 @@ La notion d’analyse statique de programmes couvre une variété de méthodes u
 * **Hub Performances et diagnostics**
 
 ### Outil de tests
+
+![Tests](https://visualstudio.microsoft.com/wp-content/uploads/2019/03/test-dark-1200.gif)
 
 * **Test unitaire**
 
