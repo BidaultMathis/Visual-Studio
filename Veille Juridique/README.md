@@ -51,7 +51,9 @@ Ces deux version, bien que l'une présente les mêmes fonctionnaltiés que l'aut
 
 Il est l'heure de nous intéresser aux différentes fonctionalités que proposent ces deux versions de Visual Studio. En premier lieu, je vais soumettre les fonctionnalités principales présentes dans les deux versions. Enfin, vous l'aurez deviné, nous allons décrouvrir les fonctionnalités de la version Entreprise que la version Community ne possède pas.
 
-### Quand Community et Entreprise ne font qu'un...
+## Lorsque Community et Entreprise ne font qu'un...
+
+### Environnement de développement intégré
 
 * **CodeLens**
 
@@ -79,11 +81,7 @@ Permet d’ouvrir des diagrammes générés dans d’autres versions de Visual S
 
 * **Multi-ciblage**
 
-* **Métrique du code**
-
-```
-Mesurer la facilité de maintenance du code avec des métriques de code.
-```
+### Débogage et diagnostics avancés
 
 * **Métrique du code**
 
@@ -101,11 +99,15 @@ La notion d’analyse statique de programmes couvre une variété de méthodes u
 
 * **Hub Performances et diagnostics**
 
+### Outil de tests
+
 * **Test unitaire**
 
 ```
 Procédure permettant de vérifier le bon fonctionnement d'une partie précise du logiciel ou d'une portion du programme
 ```
+
+### Développement entre plateformes
 
 * **Remoted iOS Simulator pour Windows**
 
@@ -115,7 +117,9 @@ Procédure permettant de vérifier le bon fonctionnement d'une partie précise d
 
 * **Xamarin.Forms**
 
-### Concernant Visual Studio Entreprise...
+## Concernant Visual Studio Entreprise...
+
+### Environnement de développement intégré
 
 * **Validation de dépendances dynamique**
 
@@ -124,6 +128,8 @@ Procédure permettant de vérifier le bon fonctionnement d'une partie précise d
 * **Validation de l’architecture**
 
 * **Clone de code**
+
+### Débogage et diagnostics avancés
 
 * **IntelliTrace**
 
@@ -140,7 +146,10 @@ Déboguer les erreurs qu'il est difficile de reproduire ou qui interviennent lor
 * **Analyse du vidage mémoire .NET**
 
 ```
-Vous pouvez analyser un instantané pour comprendre l’impact relatif des types d’objets sur l’utilisation de la mémoire et pour rechercher le code dans votre application qui utilise la mémoire de manière inefficace (Possibilité de comparer deux instantanés).
+Vous pouvez analyser un instantané pour comprendre l’impact relatif des types d’objets 
+sur l’utilisation de la mémoire et pour rechercher 
+le code dans votre application qui utilise la mémoire de manière 
+inefficace (Possibilité de comparer deux instantanés).
 ```
 
 * **Débogueur de capture instantanée**
@@ -152,6 +161,7 @@ Avec TTD, Microsoft donne aux développeurs la possibilité d’enregistrer le c
 TTD vous donne également la possibilité d'avancer et de reculer dans le temps, comme si vous effectuiez un débogage «de boucle interne» localement.
 Vous avez également accès à d'importantes fonctionnalités de débogage telles que les sections locales et la pile d'appels.
 ```
+### Outils de test
 
 * **Live Unit Testing**
 
@@ -185,3 +195,11 @@ Pour déterminer la proportion de code de votre projet qui sera réellement test
 par exemple des tests unitaires, recourez à la fonctionnalité de couverture du code de Visual Studio. 
 Pour apporter une protection efficace contre les bogues, les tests doivent s'effectuer ou « couvrir » une proportion importante de votre code.
 ```
+
+### Développement entre plateformes
+
+* **Assemblys incorporés**
+
+* **Xamarin Inspector**
+
+* **Xamarin Profiler**
