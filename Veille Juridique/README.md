@@ -148,29 +148,40 @@ Vous pouvez analyser un instantané pour comprendre l’impact relatif des types
 * **Débogage Time Travel (préversion)**
 
 ```
-Avec TTD, Microsoft donne aux développeurs la possibilité d’enregistrer le code exécuté en production et de rejouer le chemin d’exécution dans Visual Studio. TTD vous donne également la possibilité d'avancer et de reculer dans le temps, comme si vous effectuiez un débogage «de boucle interne» localement. Vous avez également accès à d'importantes fonctionnalités de débogage telles que les sections locales et la pile d'appels.
+Avec TTD, Microsoft donne aux développeurs la possibilité d’enregistrer le code exécuté en production et de rejouer le chemin d’exécution dans Visual Studio. 
+TTD vous donne également la possibilité d'avancer et de reculer dans le temps, comme si vous effectuiez un débogage «de boucle interne» localement.
+Vous avez également accès à d'importantes fonctionnalités de débogage telles que les sections locales et la pile d'appels.
 ```
 
 * **Live Unit Testing**
 
 ```
-Live Unit Testing exécute automatiquement en arrière-plan tous les tests unitaires affectés, et présente en temps réel les résultats et la couverture du code dans l’IDE Visual Studio. Lorsque vous modifiez votre code, Live Unit Testing fournit des commentaires sur l’impact de vos modifications sur les tests existants et vous indique si le code que vous avez ajouté est couvert par un ou plusieurs tests existants.
+Live Unit Testing exécute automatiquement en arrière-plan tous les tests unitaires affectés, et présente en temps réel
+les résultats et la couverture du code dans l’IDE Visual Studio. 
+Lorsque vous modifiez votre code, Live Unit Testing fournit des commentaires sur l’impact de vos modifications sur les tests existants et vous indique si le code que vous avez ajouté est couvert par un ou plusieurs tests existants.
 ```
 
 * **IntelliTest**
 
 ```
-IntelliTest explore votre code .NET pour générer des données de test et une suite de tests unitaires. Pour chaque instruction dans le code, une entrée de test est générée pour exécuter cette instruction. Une analyse de cas est effectuée pour chaque branche conditionnelle dans le code. Par exemple, les instructions if, les assertions et toutes les opérations susceptibles de lever des exceptions sont analysées. Cette analyse vous permet de générer des données de test pour établir un test unitaire paramétré pour chacune de vos méthodes et de bénéficier d'une couverture de code élevée.
+IntelliTest explore votre code .NET pour générer des données de test et une suite de tests unitaires. 
+Pour chaque instruction dans le code, une entrée de test est générée pour exécuter cette instruction. 
+Une analyse de cas est effectuée pour chaque branche conditionnelle dans le code. Par exemple, les instructions if, les assertions et toutes les opérations susceptibles de lever des exceptions sont analysées. 
+Cette analyse vous permet de générer des données de test pour établir un test unitaire paramétré pour chacune de vos méthodes et de bénéficier d'une couverture de code élevée.
 ```
 
 * **Microsoft Fakes (isolement de tests unitaires)**
 
 ```
-Microsoft Fakes vous permet d’isoler le code que vous testez en remplaçant d’autres parties de l’application par des stubs ou des shims. Ce sont de petits segments de code qui sont sous le contrôle de vos tests. En isolant votre code pour les tests, vous savez que si le test échoue, la cause réside dans le code et pas ailleurs. Les stubs et les shims vous permettent également de tester votre code même si d'autres parties de votre application ne fonctionnent pas encore.
+Microsoft Fakes vous permet d’isoler le code que vous testez en remplaçant d’autres parties de l’application par des stubs ou des shims. 
+Ce sont de petits segments de code qui sont sous le contrôle de vos tests. En isolant votre code pour les tests, vous savez que si le test échoue, la cause réside dans le code et pas ailleurs. 
+Les stubs et les shims vous permettent également de tester votre code même si d'autres parties de votre application ne fonctionnent pas encore.
 ```
 
 * **Couverture du code**
 
 ```
-Pour déterminer la proportion de code de votre projet qui sera réellement testée par des tests codés, par exemple des tests unitaires, recourez à la fonctionnalité de couverture du code de Visual Studio. Pour apporter une protection efficace contre les bogues, les tests doivent s'effectuer ou « couvrir » une proportion importante de votre code.
+Pour déterminer la proportion de code de votre projet qui sera réellement testée par des tests codés, 
+par exemple des tests unitaires, recourez à la fonctionnalité de couverture du code de Visual Studio. 
+Pour apporter une protection efficace contre les bogues, les tests doivent s'effectuer ou « couvrir » une proportion importante de votre code.
 ```
