@@ -123,6 +123,28 @@ Procédure permettant de vérifier le bon fonctionnement d'une partie précise d
 
 * **Xamarin.Forms**
 
+### Outils et fonctionnalités de collaboration
+
+![Collab](https://visualstudio.microsoft.com/wp-content/uploads/2019/03/liveshare-dark-1200.gif)
+
+* **Création de plans conceptuels PowerPoint**
+
+* **Révision de code**
+
+* **Interruption/reprise des tâches**
+
+* **Team Explorer (prise en charge des outils de développement tiers)**
+
+```
+Utilisez la fenêtre d’outil Team Explorer pour coordonner vos efforts de codage avec d’autres membres d’équipe afin de développer un projet, et pour gérer le travail assigné à vous-même, à votre équipe ou à vos projets. Team Explorer connecte Visual Studio aux dépôts Git et GitHub.
+```
+
+* **Visual Studio Live Share**
+
+```
+Live Share vous permet de partager instantanément votre projet avec un coéquipier. Modifiez et déboguez en temps réel avec vos coéquipiers, sans que ceux-ci aient besoin de cloner un référentiel ou de configurer leur environnement.
+```
+
 ## Concernant Visual Studio Entreprise...
 
 ### Environnement de développement intégré
