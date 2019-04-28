@@ -1,8 +1,8 @@
 # Visual Studio Community vs Entreptise
 
-Cette veille technologique traite des différentes versions de l'IDE de microsoft : Visual Studio 2019.
-Je vais donc vous éclairer sur les différents choix à effectuer selon les besoins, les attentes (objectifs)
-et les effectifs.  
+Cette veille technologique traite les différentes versions de l'IDE de microsoft : Visual Studio 2019.
+Je vais donc vous éclairer sur les choix à effectuer selon les besoins, les attentes (objectifs)
+et les effectifs.
 
 ## Pour commencer
 
@@ -12,14 +12,14 @@ L'IDE Visual Studio est une plateforme de lancement créative avec laquelle vous
 
 
 ## Prérequis
-***
+
 
 Visual Studio nécessite quelques prérequis système afin de pouvoir travailler convenablement : 
 
 | Systèmes d'exploitation pris en charge|Matériel|Autres composants requis|
 |----------|:-------------:|------:|
 | Windows 10 version 1703 ou ultérieure : Famille, Professionnel, Éducation et Entreprise|  Processeur 1,8 GHz minimum. Processeur quadruple cœur ou supérieur recommandé, 2 Go de RAM ; 8 Go de RAM recommandé, Espace disque dur : Entre 800 Mo et 210 Go d’espace disponible, Un disque SSD recommandé |  anglais, chinois (simplifié), chinois (traditionnel), tchèque, français, allemand, italien, japonais, coréen, polonais, portugais (Brésil), russe, espagnol et turc. |
-***
+
 ## Comparaisons
 
 A step by step series of examples that tell you how to get a development env running
